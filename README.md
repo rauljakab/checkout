@@ -1,6 +1,6 @@
 Run Checkout application
 - ensure u have elixir installed
-- mix deps.get && iex -S mix
+- ```mix deps.get && iex -S mix```
 
 Example of use: 
 ```
