@@ -1,5 +1,5 @@
 Run Checkout application
-- ensure u have elixir installed
+- ensure elixir is installed
 - ```mix deps.get && iex -S mix```
 
 Example of use: 
